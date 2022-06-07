@@ -15,5 +15,10 @@
   "mydata": {
     "moviewatched": 20,
     "youtubewatched": 50
+  },
+  "mockdata": {
+    "status": "ready",
+    "statusIcon": "&#10004;",
+    "mockD": "testThis"  
   }
 } 

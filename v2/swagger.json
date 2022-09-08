@@ -45,7 +45,7 @@
 "/pet/{petId}/uploadImage": {
 "post": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "uploads an image",
 "description": "",
@@ -101,7 +101,7 @@
 "/pet": {
 "post": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Add a new pet to the store",
 "description": "",
@@ -141,7 +141,7 @@
 },
 "put": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Update an existing pet",
 "description": "",
@@ -189,7 +189,7 @@
 "/pet/findByStatus": {
 "get": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Finds Pets by status",
 "description": "Multiple status values can be provided with comma separated strings",
@@ -244,7 +244,7 @@
 "/pet/findByTags": {
 "get": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Finds Pets by tags",
 "description": "Multiple tags can be provided with comma separated strings. Use tag1, tag2, tag3 for testing.",
@@ -294,7 +294,7 @@
 "/pet/{petId}": {
 "get": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Find pet by ID",
 "description": "Returns a single pet",
@@ -335,7 +335,7 @@
 },
 "post": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Updates a pet in the store with form data",
 "description": "",
@@ -387,7 +387,7 @@
 },
 "delete": {
 "tags": [
-"pet"
+"petzz"
 ],
 "summary": "Deletes a pet",
 "description": "",

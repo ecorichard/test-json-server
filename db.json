@@ -1,14 +1,4 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello mock json server"
-    }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment one", "postId": 1 },
-    { "id": 2, "body": "some comment two", "postId": 2 }
-  ],  
+{ 
   "pipeline": [
     { "id": 1, "appid": "pc", "version": "3.32.0.2233", "envid": "dev"},
     { "id": 2, "appid": "pc", "version": "3.32.0.2222", "envid": "ci"},

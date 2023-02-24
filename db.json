@@ -14,19 +14,5 @@
     { "id": 2, "appid": "pc", "version": "3.32.0.2222", "envid": "ci"},
     { "id": 3, "appid": "pc", "version": "3.31.0.3333", "envid": "qa"},
     { "id": 4, "appid": "pc", "version": "3.31.0.3333", "envid": "prod"}
-  ],   
-  "pipeline1": [
-    { "id": 1, "appid": "mws", "version": "4.8.0.8555", "envid": "dev"},
-    { "id": 2, "appid": "mws", "version": "4.8.0.8444", "envid": "ci"},
-    { "id": 3, "appid": "mws", "version": "4.8.0.8333", "envid": "qa"},
-    { "id": 4, "appid": "mws", "version": "4.7.0.8222", "envid": "prod"},
-    { "id": 5, "appid": "pc", "version": "3.32.0.2233", "envid": "dev"},
-    { "id": 6, "appid": "pc", "version": "3.32.0.2222", "envid": "ci"},
-    { "id": 7, "appid": "pc", "version": "3.31.0.3333", "envid": "qa"},
-    { "id": 8, "appid": "pc", "version": "3.31.0.3333", "envid": "prod"},
-    { "id": 9, "appid": "imei", "version": "1.23.1", "envid": "dev"},
-    { "id": 10, "appid": "imei", "version": "1.23.1", "envid": "ci"},
-    { "id": 11, "appid": "imei", "version": "1.23.1", "envid": "qa"},
-    { "id": 12, "appid": "imei", "version": "1.23.1", "envid": "prod"}
   ]
 } 

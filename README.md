@@ -7,5 +7,8 @@ Test mock json server.  This is a test GitHub integration with typicode.com.  Se
 - https://my-json-server.typicode.com/ecorichard/test-json-server/comments
 - https://my-json-server.typicode.com/ecorichard/test-json-server/comments/1
 - https://my-json-server.typicode.com/ecorichard/test-json-server/comments/2
+- https://my-json-server.typicode.com/ecorichard/test-json-server/pipeline
+- https://my-json-server.typicode.com/ecorichard/test-json-server/pipeline/1
+- https://my-json-server.typicode.com/ecorichard/test-json-server/pipeline/2
 - https://my-json-server.typicode.com/ecorichard/test-json-server/mydata
 - https://my-json-server.typicode.com/ecorichard/test-json-server/mockdata

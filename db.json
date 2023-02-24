@@ -8,13 +8,34 @@
   "comments": [
     { "id": 1, "body": "some comment one", "postId": 1 },
     { "id": 2, "body": "some comment two", "postId": 2 }
-  ] 
+  ],  
+  "pipeline": [
+    { "id": 1, "groupid": "wh", "appid": "pc", "version": "3.32.0.2233", "envid": "dev", "regionid": "us"},
+    { "id": 2, "groupid": "wh", "appid": "pc", "version": "3.32.0.2222", "envid": "ci", "regionid": "us"},
+    { "id": 3, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "qa", "regionid": "us"},
+    { "id": 4, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "prod", "regionid": "us"}
+  ],   
   "pipeline1": [
-    { "id": 1, "groupid": "api", "appid": "mws", "version": "4.8.0.8555", "envid": "dev", "regionid": "us"},
-    { "id": 2, "groupid": "api", "appid": "mws", "version": "4.8.0.8444", "envid": "ci", "regionid": "us"},
-    { "id": 3, "groupid": "api", "appid": "mws", "version": "4.8.0.8333", "envid": "qa", "regionid": "us"},
-    { "id": 4, "groupid": "api", "appid": "mws", "version": "4.7.0.8222", "envid": "prod", "regionid": "us"}
+    { "id": 1, "groupid": "api", "appid": "mws", "version": "4.8.0.8555", "envid": "dev"},
+    { "id": 2, "groupid": "api", "appid": "mws", "version": "4.8.0.8444", "envid": "ci"},
+    { "id": 3, "groupid": "api", "appid": "mws", "version": "4.8.0.8333", "envid": "qa"},
+    { "id": 4, "groupid": "api", "appid": "mws", "version": "4.7.0.8222", "envid": "prod"},
+    { "id": 5, "groupid": "wh", "appid": "pc", "version": "3.32.0.2233", "envid": "dev"},
+    { "id": 6, "groupid": "wh", "appid": "pc", "version": "3.32.0.2222", "envid": "ci"},
+    { "id": 7, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "qa"},
+    { "id": 8, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "prod"},
+    { "id": 9, "groupid": "api", "appid": "imei", "version": "1.23.1", "envid": "dev"},
+    { "id": 10, "groupid": "api", "appid": "imei", "version": "1.23.1", "envid": "ci"},
+    { "id": 11, "groupid": "api", "appid": "imei", "version": "1.23.1", "envid": "qa"},
+    { "id": 12, "groupid": "api", "appid": "imei", "version": "1.23.1", "envid": "prod"}
   ], 
+  "profile": {
+    "name": "typicode test"
+  },
+  "mydata": {
+    "moviewatched": 20,
+    "youtubewatched": 50
+  },
   "mockdata": {
     "status": "ready",
     "statusIcon": "&#10004;",

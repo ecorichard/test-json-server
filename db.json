@@ -5,7 +5,7 @@
       "title": "hello mock json server"
     }
   ],
-  "comments": [
+  "pipeline": [
     { "id": 1, "body": "some comment one", "postId": 1 },
     { "id": 2, "body": "some comment two", "postId": 2 }
   ],

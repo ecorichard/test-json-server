@@ -28,17 +28,5 @@
     { "id": 10, "appid": "imei", "version": "1.23.1", "envid": "ci"},
     { "id": 11, "appid": "imei", "version": "1.23.1", "envid": "qa"},
     { "id": 12, "appid": "imei", "version": "1.23.1", "envid": "prod"}
-  ], 
-  "profile": {
-    "name": "typicode test"
-  },
-  "mydata": {
-    "moviewatched": 20,
-    "youtubewatched": 50
-  },
-  "mockdata": {
-    "status": "ready",
-    "statusIcon": "&#10004;",
-    "mockD": "testThis"  
-  }
+  ]
 } 

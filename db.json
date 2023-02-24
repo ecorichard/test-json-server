@@ -1,24 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello mock json server"
-    }
-  ],
   "pipeline": [
-    { "id": 1, "body": "some comment one", "postId": 1 },
-    { "id": 2, "body": "some comment two", "postId": 2 }
-  ],
-  "profile": {
-    "name": "typicode test"
-  },
-  "mydata": {
-    "moviewatched": 20,
-    "youtubewatched": 50
-  },
-  "mockdata": {
-    "status": "ready",
-    "statusIcon": "&#10004;",
-    "mockD": "testThis"  
-  }
+    { "id": 1, "groupid": "wh", "appid": "pc", "version": "3.32.0.2233", "envid": "dev"},
+    { "id": 2, "groupid": "wh", "appid": "pc", "version": "3.32.0.2222", "envid": "ci"},
+    { "id": 3, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "qa"},
+    { "id": 4, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "prod"}
+  ]
 } 

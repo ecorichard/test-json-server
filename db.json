@@ -4,5 +4,18 @@
     { "id": 2, "groupid": "wh", "appid": "pc", "version": "3.32.0.2222", "envid": "ci"},
     { "id": 3, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "qa"},
     { "id": 4, "groupid": "wh", "appid": "pc", "version": "3.31.0.3333", "envid": "prod"}
+  ],
+  "vouchers": [
+    { "id": 1,
+      "type": "DISCOUNT_VOUCHER",
+      "discount": {
+        "percent_off": "10.0",
+        "type": "PERCENT"
+      },
+      "redemption": {
+        "quantity": "1" 
+      },
+      "category": "mock-voucher-category"
+    }
   ]
 } 
